@@ -1,0 +1,6 @@
+[submodule "themes/creative"]
+	path = themes/creative
+	url = https://github.com/digitalcraftsman/hugo-creative-theme.git
+[submodule "themes/casper"]
+	path = themes/casper
+	url = https://github.com/vjeantet/hugo-theme-casper.git
